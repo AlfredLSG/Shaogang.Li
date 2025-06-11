@@ -16,12 +16,12 @@ redirect_from:
 | :-------------------------------------------------------------- | :-------------------------- | -----------: |
 | **South China University of Technology, China**<br>*(Joint Program with BGI Research)* | **Pharmacy (Master)**       | 2021–2024    |
 | **Guangdong Pharmaceutical University, China**                  | **Biopharmaceutics (Bachelor)** | 2016–2020    |
----
+ 
 ## PUBLICATIONS
 *   Li, S*., Lin, Y*., Su, F*., et al. (2025). **Comprehensive evaluation of the impact of whole-genome bisulfite sequencing (WGBS) on the fragmentomic characteristics of plasma cell-free DNA.** *Clinica chimica acta; international journal of clinical chemistry*, 566, 120033. [https://doi.org/10.1016/j.cca.2024.120033](https://doi.org/10.1016/j.cca.2024.120033) (*Co-first Author, SCI Q2*)
 *   Wang, X.*, Li, S.*, Ou, R.*, et al. (2025). **Wide-spectrum profiling of plasma cell-free RNA and the potential for health-monitoring.** *RNA biology*, 22(1), 1–15. [https://doi.org/10.1080/15476286.2025.2481736](https://doi.org/10.1080/15476286.2025.2481736) (*Co-first Author, SCI Q2*)
 *   Zhang, Y., Liu, J., Basang Z., Yang, Q., Chen, S., Li, S., Lei, C., Fang, M., Liu, H., Jin, X., & Wang, Y. (2025). **Shared genetic features inference among hypoxia-ischemia diseases in the presence of heterogenous omics data based on a novel risk assessment method.** *Frontiers in Genetics*, 16, 1587854. [https://doi.org/10.3389/fgene.2025.1587854](https://doi.org/10.3389/fgene.2025.1587854) (CRediT: Formal Analysis, SCI Q2, in press).
----
+ 
 ## RESEARCH EXPERIENCE
 
 ### Development of cell-free RNA (cfRNA) Sequencing Bioinformatics Pipeline | Dec 2022 – Jun 2023
@@ -38,7 +38,7 @@ redirect_from:
 *   **Goal:** To systematically evaluate the impact of WGBS on cfDNA fragmentomic features compared to WGS.
 *   **Methods:** Utilized Linux tools, Shell scripting, and R for comparative analysis of fragment size distributions, end-motif patterns, coverage of Key sites (TSS/CTCF) of transcriptional regulation, GC bias, and fetal fraction estimation between paired WGS and WGBS datasets. Developed custom analysis scripts.
 *   **Outcome:** Led the bioinformatics analysis and contributed significantly to manuscript writing, resulting in a first-author publication in Clinica Chimica Acta.
----
+ 
 ## WORK EXPERIENCE
 
 ### [Sanofi Pasteur](https://www.sanofi.cn/zh), Shenzhen, China | Jul 2020 – Jul 2021
@@ -51,11 +51,11 @@ redirect_from:
 *   Adhered strictly to SOPs and GMP guidelines, ensuring accurate experimental results and meticulous record-keeping (Awareness of Good Laboratory Record - writing Norms).
 *   Managed instrument and equipment, materials, and maintained document control according to industry standards.
 *   Received comprehensive on-the-job training in Health, Safety and Environment (HSE) Awareness, Experimental Skills Training, Document Control, Laboratory Record Management, and Regulatory & Legal Training.
----
+ 
 ## HONORS & AWARDS
 *   Excellent Graduate Student Cadre | 2021–2022, South China University of Technology | (Awarded for Student Union work)
 *   Excellent Communist Youth League Member | 2021–2022, South China University of Technology | (Awarded for 79.5 volunteer hours)
----
+ 
 ## SKILLS
 *   **Bioinformatics Analysis:** cfDNA/cfRNA Fragmentomics, RNA-Seq (Transcriptomics), WGS/WGBS Data Analysis, Pathway Enrichment, NGS Data QC & Processing, Bioinformatics Pipeline Development & Validation.
 *   **Programming & Software:** R (rbase, tidyverse, ggplot2, DESeq2, etc.); Python (Basic scripting, numpy, Pandas); Linux & Shell Scripting; Commonly used bioinformatics analysis software (Samtools, Bedtools, BWA, HISAT2, STAR, featureCounts, DESeq2, Fastp, Qualimap, etc.); MS-office (WORD, POWERPOINT, EXCEL); Adobe Illustrator.
