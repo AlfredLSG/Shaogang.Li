@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive evaluation of the impact of whole-genome bisulfite sequencing (WGBS) on the fragmentomic characteristics of plasma cell-free DNA."
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-01-30-cfdna-wgbs-fragmentomics
 excerpt: 'This paper systematically evaluated the impact of whole-genome bisulfite sequencing (WGBS) on cfDNA fragmentomic features compared to WGS, offering insights for liquid biopsy applications. (*Co-first Author, SCI Q2*)'
 date: 2025-01-30
