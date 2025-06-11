@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shaogang.Li/Personal Website"
+title                    : "Shaogang Li/Personal Website"
 title_separator          : "-"
-name                     : &name "Shaogang.Li"
+name                     : &name "Shaogang Li"
 description              : &description "personal description"
 url                      : https://alfredlsg.github.io/Shaogang.Li/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   location         : "Guangzhou,China"
   employer         : "South China University of Technology"
   uri              : # URL
-  email            : "lishaogang97@gmail.com" 
+  email            : "li.shaogang97@gmail.com" 
 
   # Academic websites
   #academia         : # URL
@@ -51,7 +51,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
