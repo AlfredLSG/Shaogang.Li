@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shaogang.Li"
+title                    : "Shaogang.Li/Personal Website"
 title_separator          : "-"
 name                     : &name "Shaogang.Li"
 description              : &description "personal description"
