@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Shaogang.Li's personal academic homepage"
+title: "Welcome to Shaogang Li's personal academic homepage"
 author_profile: true
 redirect_from: 
   - /about/
