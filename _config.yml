@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "李少港.png"
-  name             : "../images/Shaogang Li"
+  avatar           : "../images/李少港.png"
+  name             : "Shaogang Li"
   pronouns         : # example: "she/her"  
   bio              : "Master of Pharmacy, specializing in liquid biopsy"
-  location         : "Hangzhou,China"
+  location         : "Guangzhou,China"
   employer         : "South China University of Technology"
   uri              : # URL
   email            : "lishaogang97@gmail.org" 
