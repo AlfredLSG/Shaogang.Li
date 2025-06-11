@@ -9,14 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# SHAOGANG LI
-**Contact:** (+86) 18124695924 | li.shaogang97@gmail.com
-
 ## EDUCATION
-*   **South China University of Technology, China** (Joint Program with BGI Research)
-    *   Pharmacy (Master) | 2021–2024
-*   **Guangdong Pharmaceutical University, China**
-    *   Biopharmaceutics (Bachelor) | 2016–2020
+*   **South China University of Technology, China** (Joint Program with BGI Research)  Pharmacy (Master) | 2021–2024
+*   **Guangdong Pharmaceutical University, China**          Biopharmaceutics (Bachelor)                  | 2016–2020
 
 ## PUBLICATIONS
 *   Li, S*., Lin, Y*., Su, F*., et al. (2025). **Comprehensive evaluation of the impact of whole-genome bisulfite sequencing (WGBS) on the fragmentomic characteristics of plasma cell-free DNA.** *Clinica chimica acta; international journal of clinical chemistry*, 566, 120033. [https://doi.org/10.1016/j.cca.2024.120033](https://doi.org/10.1016/j.cca.2024.120033) (*Co-first Author, SCI Q2*)
